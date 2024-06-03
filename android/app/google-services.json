@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260348441388",
+    "project_id": "interview-cca1c",
+    "storage_bucket": "interview-cca1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260348441388:android:038e284b3fac7874f1b289",
+        "android_client_info": {
+          "package_name": "com.company.appname"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRsvhH1r8dP6TjLFDdUgYsBUi-sloJx_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
